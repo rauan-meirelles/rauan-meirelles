@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/allangbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rauan-meirelles&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauan-meirelles&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rauan-meirelles&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauan-meirelles&layout=compact&langs_count=7&theme=github_dark"/>
 </div> </br>
 
   ![Snake animation](https://github.com/rauan-meirelles/rauan-meirelles/blob/output/github-contribution-grid-snake.svg)

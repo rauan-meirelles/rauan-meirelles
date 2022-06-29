@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning JavaScript, React, Flluter, Dart and Docker
 
 ## Skills
-<div style="display: inline_block;">
+<div align="justify"; style="display: inline_block;">
   <img align="center" alt="HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,7 +28,7 @@
 
 ## Statistics
 
-<div align="left">
+<div align="justify">
   <a href="https://github.com/rauan-meirelles">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rauan-meirelles&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauan-meirelles&layout=compact&langs_count=7&theme=github_dark"/>

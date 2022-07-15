@@ -6,7 +6,7 @@
 
 
 - 🚀 Software Developer focus on Coffe
-- 🌱 I’m currently learning JavaScript, React, Flluter, Dart and Docker
+- 🌱 I’m currently learning JavaScript, React, Flutter, Dart and Docker
 
 ## Skills
 <div align="justify"; style="display: inline_block;">
